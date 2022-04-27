@@ -1,0 +1,8 @@
+{
+  "name": "tig",
+  "repo": "jonas/tig",
+  "version": "tig-2.5.5",
+  "description": "Text-mode interface for git",
+  "install": "make && make install",
+  "license": "https://github.com/jonas/tig/blob/master/COPYING"
+}
